@@ -1,0 +1,25 @@
+﻿  FireGrid.cpp
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\FireGrid.cpp(14,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\FireGrid.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\FireGrid.cpp(23,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\FireGrid.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+  GameLogic.cpp
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\GameLogic.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\GameLogic.cpp(246,21): warning C4018: '<': signed/unsigned mismatch
+  Grid.cpp
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Grid.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Grid.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Grid.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Grid.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Grid.cpp(42,21): warning C4018: '<': signed/unsigned mismatch
+  ShipGrid.cpp
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\ShipGrid.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\ShipGrid.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Source.cpp(12,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Source.cpp(95,26): warning C4101: 'e': unreferenced local variable
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Source.cpp(138,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\Source.cpp(140,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\spart\source\repos\ShittyBattleShip\ShittyBattleShip\FireGrid.cpp(54): warning C4715: 'FireGrid::FireTorpedoAtFireGrid': not all control paths return a value
+  ShittyBattleShip.vcxproj -> C:\Users\spart\source\repos\ShittyBattleShip\Debug\ShittyBattleShip.exe
